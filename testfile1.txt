@@ -1,2 +1,5 @@
 Sample text.
 Learning in progress.
+
+
+Третья тестовая строка - 3.
