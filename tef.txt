@@ -1,3 +1,4 @@
+new added string
 Sample text.
 Learning in progress.
 
