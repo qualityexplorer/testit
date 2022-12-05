@@ -1,4 +1,4 @@
-conf_branch
+conf_branch NEW INFO
 
 new added string
 unknown string
