@@ -1,7 +1,7 @@
 new file edit 1
 
 
-conf_branch
+conf_branch NEW ADD
 
 new added string
 unknown string
