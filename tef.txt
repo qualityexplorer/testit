@@ -1,5 +1,3 @@
-test line 2
-
 new added string
 unknown string
 Sample text.
