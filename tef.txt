@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-conf_branch NEXT ADD 2022
-=======
-conf_branch NEW INFO
->>>>>>> 3985e063c6dd80c40def9c54c3bc7aaec50f76b8
+test line 2
 
 new added string
 unknown string
