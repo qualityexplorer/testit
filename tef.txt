@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 test line 1
 
+=======
+>>>>>>> origin/main
 new added string
 unknown string
 Sample text.
